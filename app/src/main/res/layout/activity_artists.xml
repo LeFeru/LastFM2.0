@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:weightSum="6"
+    android:id="@+id/standard">
+
+    <Button
+        android:id="@+id/btnArtistesPreferes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/artistes_preferes"
+        android:layout_gravity="top|center"
+        android:gravity="center"
+        />
+    <FrameLayout
+        android:id="@+id/fragment_master_artists"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="6" />
+</LinearLayout>

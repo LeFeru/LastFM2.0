@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LastFM 2.0</string>
+    <string name="n_artistes">N artistes</string>
+    <string name="bouton_query">Query</string>
+    <string name="nom_artiste">Nom de l\'artiste</string>
+    <string name="nb_ecoutes">Nombre d\'écoutes</string>
+    <string name="n_defaut">50</string>
+    <string name="artistes_preferes">Artistes préférés</string>
+    <string name="blanc_et_bleu">Blanc et Bleu</string>
+    <string name="noir_et_blanc">Noir et Blanc</string>
+    <string name="rose_et_brun">Rose et Brun</string>
+</resources>
